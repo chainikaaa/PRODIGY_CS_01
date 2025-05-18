@@ -1,0 +1,15 @@
+PS C:\Users\chain\OneDrive\Desktop\cyber security\caesar cipher> python msgs.py
+=== Caesar Cipher Encryption/Decryption ===
+Type 'e' to encrypt or 'd' to decrypt: e
+Enter your message: hello chai
+Enter the shift value (integer): 123
+
+Encrypted Message: axeeh vatb
+PS C:\Users\chain\OneDrive\Desktop\cyber security\caesar cipher> python msgs.py
+=== Caesar Cipher Encryption/Decryption ===
+Type 'e' to encrypt or 'd' to decrypt: d
+Enter your message: hello chai
+Enter the shift value (integer): 123
+
+Decrypted Message: olssv johp
+PS C:\Users\chain\OneDrive\Desktop\cyber security\caesar cipher> 
